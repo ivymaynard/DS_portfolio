@@ -1,3 +1,5 @@
-# andrew garfield and jesse eisenberg fanpage
+# ivywhenwhenivy EXCLUSIVE CLUB
 
-what is going on ladies and gents and other. ivy here. 
+Hello, everyone (aka Jenn aka jenn.is.listening). If you're reading this, you are part of an elite secret society of ivywhenwhenivy followers. Its like the CIA where I am the U.S. government and you are not a spy but instead my loyal supporter. Very prestegious.
+
+
