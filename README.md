@@ -1,3 +1,6 @@
+# Welcome to my portfolio!
+Here is a little bit about me: Ivy Maynard
+
 ## Education
 
 **Bachelor of Science in Data Science & Analytics**
