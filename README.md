@@ -17,6 +17,12 @@ Expected Graduation: 2027
 
 Expected Graduation: 2027
 
+---
+
+**Minor in Computer Science: Software Development**
+
+*Simmons University*
+
 
 ## Technical Skills
 Proficient in R, R Studio, and Python.
