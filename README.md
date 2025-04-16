@@ -1,5 +1,3 @@
-# Ivy Maynard's Data Science Portfolio
-
 ## Education
 
 **Bachelor of Science in Data Science & Analytics**
