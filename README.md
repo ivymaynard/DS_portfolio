@@ -3,7 +3,7 @@ Here is a little bit about me: Ivy Maynard
 
 ## Education
 
-**Bachelor of Science in Data Science & Analytics**
+**Bachelors of Science in Data Science & Analytics**
 
 *Simmons University*
 
@@ -39,7 +39,7 @@ This website is a collection of some of my data science work used to showcase my
 
 *The 2018 Boston Red Sox and their Infamous Outfield: Were they the Ticket to Victory?*
 
-This project looks at the 2018 MLB World Series matchup and explores errors commited by the Red Sox and the Dodgers to see if the total regular season errors alligns with the outcome of the playoffs. I looked at team-wide errors as well as individual errors to explore any unusual patterns in the data and to contextualize preconceived notions with the statistics.
+This project looks at the 2018 MLB World Series matchup and explores errors commited by the Red Sox and the Dodgers to see if the total regular season errors alligns with the outcome of the championship. I looked at team-wide errors as well as individual errors to explore any unusual patterns in the data and to contextualize preconceived notions with the statistics.
 
 [View My Project](https://ivymaynard.github.io/mini_project1//mini_project1/Mini_Project.html)
 
@@ -49,7 +49,7 @@ This project looks at the 2018 MLB World Series matchup and explores errors comm
 
 *Tanner Houck and Garrett Crochet: Battle of the Aces*
 
-This project explores the differences between 2024 starts for Crochet and Houck, the two most highly anticipated strating pitchers for the 2025 Red Sox. I modled various tidying functions using the tidyverse to simplify and explore various parts of these pitchers profiles, such as performace at home vs away and innings pitched per start.
+This project explores the differences between 2024 starts for Crochet and Houck, the two most highly anticipated starting pitchers for the 2025 Red Sox. I modled various tidying functions using the tidyverse to simplify and explore different parts of these pitchers profiles, such as performace at home vs away and innings pitched per start.
 
 [View My Project](https://ivymaynard.github.io/mini_project2//mini_project2/mini_notebook2.html)
 
