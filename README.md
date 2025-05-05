@@ -53,4 +53,17 @@ This project explores the differences between 2024 starts for Crochet and Houck,
 
 [View My Project](https://ivymaynard.github.io/mini_project2//mini_project2/mini_notebook2.html)
 
+---
+
+**Final Project: Statistical Modeling**
+
+*Is the MLB Entering an Era of Speed Over Power? The Effects of Stolen Bases and Triples on Win Probability*
+
+This project takes my research question–do stolen bases and triples in the first inning increase win probability?–through data gathering and wrangaling, visualization, statistical modeling, and cross-validation. I analyze speed statistics to see if the MLB should, or is, shifting toward a focus on speed players over power players based on their contribution to individual games and the overall effects of their skills.
+
+[View My Project](https://ivymaynard.github.io/final_project/Final%20Project/Final_Project.html)
+
+
+[View My Presentation](https://ivymaynard.github.io/final_project/Final%20Project/STAT%20228%20Final%20Project%20Presentation.pdf)
+
 
