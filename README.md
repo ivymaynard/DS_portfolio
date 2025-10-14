@@ -1,4 +1,4 @@
-Here is a breif overview of my academic qualification, my technical skills, as well as links to a few projects I created while learning R.
+Welcome to my data science portfolio. My name is Ivy Maynard, and I am learning all about programming through sabermetrics and sports analytics. Below is a brief overview of my academic qualifications and my technical skills, as well as links to a few projects I created while learning R.
 
 ## Education
 
@@ -24,10 +24,10 @@ Expected Graduation: 2027
 
 
 ## Technical Skills
-- Proficient in R, R Studio, and Python.
+- Proficient in R, R Studio, SQL and Python.
 - Experience working with statistical modeling, with specific focus in linear and logistic regression, in order to predict outcomes and make decisons.
 - Can manipulate large untidy datasets into workable datasets which are optimal for analysis and exploration.
-- Strong foundation in Calculus, Multivariable Calculus, and Linear Algebra.
+- Strong foundation in Calculus, Multivariable Calculus, Linear Algebra, and Probability Statistics.
 
 ## Purpose
 This website is a collection of some of my data science work used to showcase my learning in data collecting, tidying, exploring, and analysis. I have selected various baseball players and teams of interest to me and started to answer questions about them through these strategies so that I can become more familiar with the world of sabremetrics.
