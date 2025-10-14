@@ -1,5 +1,6 @@
-# Welcome to my portfolio!
-Here is a little bit about me: Ivy Maynard
+
+## Welcome to my portfolio!
+Here is a breif overview of my academic qualification, my technical skills, as well as links to a few projects I created while learning R.
 
 ## Education
 
