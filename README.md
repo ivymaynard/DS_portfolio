@@ -1,16 +1,10 @@
-Welcome to my data science portfolio. My name is Ivy Maynard, and I am learning all about programming through sabermetrics and sports analytics. Below is a brief overview of my academic qualifications and my technical skills, as well as links to a few projects I created while learning R.
+Welcome to my data science portfolio. My name is Ivy Maynard, and I am learning all about programming through Sabermetrics and sports analytics. Below is a brief overview of my academic qualifications and my technical skills, as well as links to a few projects I created while learning R.
 
 ## Education
 
-**Bachelors of Science in Data Science & Analytics**
-
-*Simmons University*
-
-Expected Graduation: 2027
-
----
-
-**Bachelors of Art in Economics**
+**Majors:**
+Data Science & Analytics
+Economics
 
 *Simmons University*
 
@@ -48,7 +42,7 @@ This project looks at the 2018 MLB World Series matchup and explores errors comm
 
 *Tanner Houck and Garrett Crochet: Battle of the Aces*
 
-This project explores the differences between 2024 starts for Crochet and Houck, the two most highly anticipated starting pitchers for the 2025 Red Sox. I modled various tidying functions using the tidyverse to simplify and explore different parts of these pitchers profiles, such as performace at home vs away and innings pitched per start.
+This project explores the differences between 2024 starts for Crochet and Houck, the two most highly anticipated starting pitchers for the 2025 Red Sox. I modled various tidying functions using the tidyverse to simplify and explore different parts of these pitchers profiles, such as performace at home versus away and innings pitched per start.
 
 [View My Project](https://ivymaynard.github.io/mini_project2//mini_project2/mini_notebook2.html)
 
